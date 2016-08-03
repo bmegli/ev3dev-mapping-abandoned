@@ -2,9 +2,10 @@
 The completely abandoned unsupported and unlicensed test code
 
 This is the code that was originally used to make:
-1. How to interface XV11 LIDAR to EV3 using ev3dev 
+
+1.  How to interface XV11 LIDAR to EV3 using ev3dev 
 	https://www.youtube.com/watch?v=G6uVg34VzHw
-2. EV3 Gyro vs CruizCore XG1300L vs Odometry - Position Estimation (with some modifications)
+2.  EV3 Gyro vs CruizCore XG1300L vs Odometry - Position Estimation (with some modifications)
 	https://www.youtube.com/watch?v=vzND_ISdhEs
 	
 This code is unlicensed - you are free to do whatever you want with it
